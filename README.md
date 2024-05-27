@@ -10,3 +10,5 @@
 
 - pip install scikit-learn
 
+- pip install graphviz==0.20.3
+
